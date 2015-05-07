@@ -29,5 +29,8 @@
   },
   "homepage": "https://github.com/paramaggarwal/react-dropzone",
   "author": "Param Aggarwal",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "reactify": "^1.1.0"
+  }
 }
